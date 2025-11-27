@@ -17,8 +17,8 @@ Perfect for cybersecurity professionals, students, and enthusiasts who want a cl
 
 1. *Clone the repo*  
    ``` 
-   git clone https://github.com/yourusername/yourrepo  
-   cd yourrepo  
+   git clone https://github.com/karndeepbaror/NexaScan
+   cd NexaScan
    ```
 
 2. *Run the script*  
@@ -59,3 +59,4 @@ Always take proper permission before scanning.
 ***👨‍💻 Author***
 
 *Karndeep Baror* – Cybersecurity Enthusiast  
+✨ [ Join Our WhatsApp Community ](https://whatsapp.com/channel/0029Vb6plDSBKfi3qGz2fq0f)
