@@ -16,7 +16,8 @@ Perfect for cybersecurity professionals, students, and enthusiasts who want a cl
 ***🚀 How to Use***
 
 1. *Clone the repo*  
-   ``` 
+   ```
+   pkg install nmap
    git clone https://github.com/karndeepbaror/NexaScan
    cd NexaScan
    ```
