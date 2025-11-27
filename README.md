@@ -24,7 +24,7 @@ Perfect for cybersecurity professionals, students, and enthusiasts who want a cl
 
 2. *Run the script*  
    ```
-   python3 tool.py  
+   python nexascan.py
    ```
 
 3. *Enter your target*, choose scan types, and go!  
